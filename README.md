@@ -1,4 +1,4 @@
-# Rede Neural a partir do Zero
+# Rede Neural
 
 Este repositório contém um notebook Jupyter (`rede_neural_do_zero.ipynb`) que implementa uma rede neural simples para reconhecimento de dígitos utilizando a base de dados MNIST. A rede neural é construída utilizando a biblioteca PyTorch.
 
